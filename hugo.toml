@@ -1,3 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://marsh.post-self.ink/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Marsh'
+theme = 'maddybook'
+paginatePath = ""
+disablePathToLower = true
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = '2023'
+    customCSS = ['/css/toledot.css']
+
+[markup.goldmark.renderer]
+    unsafe = true
