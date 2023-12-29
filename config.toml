@@ -12,6 +12,8 @@ disablePathToLower = true
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = '2023'
+    subtitle = 'A Post-Self Story'
+    subtitleLink = 'https://post-self.ink'
     customCSS = ['/css/toledot.css']
 
 [markup.goldmark.renderer]
