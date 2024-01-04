@@ -21,4 +21,4 @@ What happened? A crash? Where has time gone? Where have those billions of minds 
 
 -----
 
-***Coming mid-2024***
+***Coming mid-2024*** but you can read a snippet [here](/preview)!
