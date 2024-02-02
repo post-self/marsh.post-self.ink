@@ -1,4 +1,4 @@
-*Marsh* is a new project by Madison Scott-Clary set within the [Post-Self](https://post-self.ink) universe. It's currently being funded by a Kickstarter — help bring this book to fruition by contributing [here](https://www.kickstarter.com/projects/drabmakyo/marsh)!
+*Marsh* is a new project by Madison Scott-Clary set within the [Post-Self](https://post-self.ink) universe. It was successfully funded by a Kickstarter! Feel free to read about that process [here](/kickstarter)
 
 [![Banner](/draft-banner.jpg)](https://www.kickstarter.com/projects/drabmakyo/marsh)
 
