@@ -33,7 +33,7 @@ Post-Self has always found appeal for plural and median systems, and many of tho
 
 As such, Post-Self saw a boom in popularity and reach, and it was perhaps misguided of me to maintain that assumption that a less furry book would not find a place.
 
-The *Marsh* Kickstarter once more found success within the first few minutes, and the first three stretch goals were met by the end of the first day, and I added stretch goals to $2,500 by January 2nd, and again in the last few days, with the two most exciting being an audiobook of *Marsh* and an additional novella, *Motes Played*.
+The *Marsh* Kickstarter once more found success within the first few minutes, and the first three stretch goals were met by the end of the first day, and I added stretch goals to $2,500 by January 2nd, and again in the last few days, with the two most exciting being an audiobook of *Marsh* and an additional novella, [*Motes Played*](https://motes-played.post-self.ink).
 
 ![The progress of funding](/ks-progress.png)
 
@@ -56,4 +56,4 @@ The obvious example is that of intraclade relationships, a taboo that only start
 
 It was super fun to write and a very worthwhile experience. It was also something that I was not planning on doing much with beyond posting the story as a bit of canon writing to Post-Self site in the [stories](/stories) section, maybe release as an ebook on the Itch.io store. It was already done, after all, and has even already been edited and read by several of those on the Discord.
 
-This, however, was an opportunity to push that a bit further and get it pulled together into a full paperback, complete with a cover. I'm really excited to have the chance to do that! Even though, as a novella, it will be much shorter than the other Post-Self books, and even though it follows along from *Mitzvot* in such a way as to require having read the cycle, I still hope that folks will enjoy it.
+This, however, was an opportunity to push that a bit further and get it pulled together into a full paperback, complete with a cover. I am really excited to have the chance to do that! Even though, as a novella, it will be much shorter than the other Post-Self books, and even though it follows along from *Mitzvot* in such a way as to require having read the cycle, I still hope that folks will enjoy it.
