@@ -46,6 +46,8 @@ I offered rewards for:
 * Stickers and bookplates
 * One's name in the credits, with a personalized message at the higher tiers.
 
+All in all, it was invigorating and refreshing to see how well this all went. The rest of my life is a bit of a shitshow now, so having something go as well as this is really comforting.
+
 ### Motes Played
 
 Over the last week of December and the first two weeks of January, I hammered out a novella surrounding And We Are The Motes In The Stage-Lights of the Ode clade, an exploration of childhood sys-side.
@@ -57,3 +59,4 @@ The obvious example is that of intraclade relationships, a taboo that only start
 It was super fun to write and a very worthwhile experience. It was also something that I was not planning on doing much with beyond posting the story as a bit of canon writing to Post-Self site in the [stories](/stories) section, maybe release as an ebook on the Itch.io store. It was already done, after all, and has even already been edited and read by several of those on the Discord.
 
 This, however, was an opportunity to push that a bit further and get it pulled together into a full paperback, complete with a cover. I am really excited to have the chance to do that! Even though, as a novella, it will be much shorter than the other Post-Self books, and even though it follows along from *Mitzvot* in such a way as to require having read the cycle, I still hope that folks will enjoy it.
+
