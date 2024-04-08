@@ -1,6 +1,10 @@
 *Marsh* is a new project by Madison Scott-Clary set within the [Post-Self](https://post-self.ink) universe. It was successfully funded by a Kickstarter! Feel free to read about that process [here](/kickstarter)
 
 [![Banner](/draft-banner.jpg)](https://www.kickstarter.com/projects/drabmakyo/marsh)
+<p class="buy">
+<a href="https://makyo.itch.io/marsh" target="_blank">Pre-order ebook</a>
+<a href="https://makyo-ink.square.site/product/marsh/18" target="_blank">Pre-order paperback</a> 
+</p>
 
 -----
 
