@@ -31,7 +31,7 @@ What happened? A crash? Where has time gone? Where have those billions of minds 
 
 ### About the author
 
-![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)
+<img alt="Print by Forrest Gerke" src="https://makyo.ink/assets/img/headshot.png" class="invertable" />
 
 Madison Scott-Clary is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.
 
