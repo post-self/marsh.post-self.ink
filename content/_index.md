@@ -1,4 +1,4 @@
-*Marsh* is a new project by Madison Scott-Clary set within the [Post-Self](https://post-self.ink) universe. It was successfully funded by a Kickstarter! Feel free to read about that process [here](/kickstarter)
+*Marsh* is a new project by Madison Rye Progress set within the [Post-Self](https://post-self.ink) universe. It was successfully funded by a Kickstarter! Feel free to read about that process [here](/kickstarter)
 
 [![Banner](/draft-banner.jpg)](https://www.kickstarter.com/projects/drabmakyo/marsh)
 <p class="buy">
@@ -33,7 +33,7 @@ What happened? A crash? Where has time gone? Where have those billions of minds 
 
 <img alt="Print by Forrest Gerke" src="https://makyo.ink/assets/img/headshot.png" class="invertable" />
 
-Madison Scott-Clary is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.
+Madison Rye Progress is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.
 
 <p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
 
