@@ -14,7 +14,7 @@ One year, one month, and eleven days have gone missing...and so has one percent 
 
 *Marsh* is a new novel in the Post-Self universe, following Reed and the rest of his cocladists, fellow instances forked from the original uploaded mind of Marsh, as they strive to discover what has happened and where Marsh has gone, rendering them unmoored: five unconnected instances with no root to connect them.
 
-Includes stories by Samantha Yule Fireheart, Michael Miele, Caela Argent, Andréa C. Mason, Thomas "Faux" Steele, Nathan Mcardle-Mott-Merrifield, Sarah Bloden, and Krzsyztof "Tomash" Drewniak.
+Includes stories by Samantha Yule Fireheart, Michael Miele, Caela Argent, Andréa C. Mason, JS Hawthorne, Thomas "Faux" Steele, Nathan Mcardle-Mott-Merrifield, Sarah Bloden, and Krzsyztof "Tomash" Drewniak.
 
 -----
 
