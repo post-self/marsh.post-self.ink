@@ -5,7 +5,7 @@ layout: single
 
 Nine stories set in the days, weeks, and years following the Century Attack, written by those within the Post-Self community.
 
----
+-----
 
 ["Game Night": <small>Joanna — 2401</small>](/stories/game-night)
 :   *Michael Miele*
