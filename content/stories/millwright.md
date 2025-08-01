@@ -1,3 +1,10 @@
+---
+type: story
+title: Millwright
+author: Andréa C Mason
+character: Andréa C Mason#Millwright — 2401
+---
+
 I need a break.
 
 Even before uploading, I was the face. The spokesperson. The rep. The primary fronter in a plural system of at least nine. The fursona everyone knew, the friend, the organizer, the closeted kid who burst out of the closet a social butterfly. It worked, then. Whether I wanted it or not, I was good at it, when we could manage our mental health.

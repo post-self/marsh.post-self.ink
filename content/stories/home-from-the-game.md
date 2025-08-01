@@ -1,3 +1,10 @@
+---
+type: story
+title: Home From the Game
+author: Caela Argent
+character: Sadie Amara — 2401
+---
+
 She hadn't seen them in... well, in years. And yet, here they were... sitting on her couch. She swallowed, awkwardly, and took another step closer.
 
 She was never really *comfortable* around her own forks, even one as sufficiently... What was the word again? Right, as sufficiently *individuated* as this one. Hell, they lacked everything she considered *herself*. The brown hair tied back in a scruff was gone, replaced with a shaggy mane shot through with a green streak. The ridiculous clothes, plated with bulky metal and accompanied by a cape.
@@ -18,9 +25,7 @@ She nodded as her up-tree's sentence tapered off. "The game."
 
 The single-page announcement lay on the arm of the couch, where her fork had left it.
 
-> ::: center
 > **Forbidden Sector to Close For the Foreseeable Future**
-> :::
 >
 > Hey all. Devteam here.
 >

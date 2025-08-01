@@ -1,3 +1,10 @@
+---
+type: story
+title: A Well-Trained Eye
+author: Andréa C Mason
+character: Lucia Marchetti — 2401
+---
+
 The rain against old glass panes and the sways and bumps of the car on the rails ready the air for conjurations. Lucy sits on the bench 6th from the back, on the right side, a sketchbook open across her knees. Today she's trying charcoal. Feels right with what happened a week ago.
 
 This lonely train through the valley and the mountain is her chapel and now her hermitage in the wake of the bombing. There are plenty of churches and other religious retreats across the System if she wanted, but none of them have ever felt a fit for this work. She thought about skipping this week, and told herself if the train wasn't running, she'd pick up again later, but even with no passengers save her, the engine pulls its empty tail along the countryside. So, as she has done every week for the past 250 years, she has gone to her locker in the station, pulled out a fresh sketchbook, and boarded.
@@ -240,7 +247,7 @@ Lucia finally finds the other end of the thread. "Do you own this sim?"
 
 The smile fades from the skunk's face. "As of a week ago, yes."
 
-"Was it the Century At---"
+"Was it the Century At--"
 
 "Mr. Nguyen had been planning to retire for some time. He'd given full access controls and permissions of the Sim to me a few months back, and after 275 years, he planned to retire at midnight, right as the century rolled over." The furred woman bit her lip and looked away. "I...I don't know if he died in the Attack. The way he was cleaning up his affairs by the end he might have quit the big one. Either way, he's gone."
 

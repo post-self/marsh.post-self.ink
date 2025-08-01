@@ -1,3 +1,10 @@
+---
+type: story
+title: Prophecies
+author: Madison Rye Progress, with contributions from Samantha Yule Fireheart
+character: Slow Hours — 2401
+---
+
 To step into The Bean Cycle was to be immediately assailed by sound. There was, as to be expected, the clink of glasses and muted howl of steam wands bringing milk up to temperature, but mixed in was the clatter and clicking of work being done on bicycles. Wheels were spun, chain was dragged through derailleurs, tires were changed. Milk was steamed, espresso was made, names were hollered out.
 
 It was not the type of din that Slow Hours expected for the one she and If I Dream were looking for. It was too uneven, this wall of sound. Too unpredictable. The steam wands were too piercing and the occasional clang of a wrench or raucous laughter over some story of a crash too jarring.

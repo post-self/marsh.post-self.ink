@@ -1,7 +1,9 @@
 ![Banner](/front.png)
 <p class="buy">
-<a href="https://makyo.itch.io/marsh" target="_blank">Pre-order ebook</a>
-<a href="https://makyo-ink.square.site/product/marsh/18" target="_blank">Pre-order paperback</a> 
+<a href="https://makyo.itch.io/marsh" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/marsh/18" target="_blank">Pre-order paperback</a>
+<a href="/read">Read in the browser</a>
+<a href="/stories">Read "Stories From After"</a>
 </p>
 
 -----
@@ -15,12 +17,6 @@ One year, one month, and eleven days have gone missing...and so has one percent 
 *Marsh* is a new novel in the Post-Self universe, following Reed and the rest of his cocladists, fellow instances forked from the original uploaded mind of Marsh, as they strive to discover what has happened and where Marsh has gone, rendering them unmoored: five unconnected instances with no root to connect them.
 
 Includes stories by Samantha Yule Fireheart, Michael Miele, Caela Argent, Andréa C Mason, JS Hawthorne, Thomas "Faux" Steele, Nat Mcardle-Mott-Merrifield, Sarah Bloden, and Krzysztof "Tomash" Drewniak.
-
------
-
-*Marsh* is a new project by Madison Rye Progress set within the [Post-Self](https://post-self.ink) universe. It was successfully funded by a Kickstarter! Feel free to read about that process [here](/kickstarter).
-
-***Coming Spring 2025*** but you can read a snippet [here](/preview)!
 
 -----
 
