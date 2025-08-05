@@ -113,28 +113,17 @@ A few minutes later, the report was official:
 >
 > Prepared and confirmed on this 125th day of the 281st year of the System by,
 >
-> -   The Only Time I Dream Is When I Need An Answer of the Ode clade, advisor, sys-side\
->
-> -   Jonas Fa of the Jonas clade, advisor, sys-side\
->
-> -   Selena of her own clade, advisor, sys-side\
->
-> -   Debarre of his own clade, advisor, sys-side\
->
-> -   Yared Zerezghi of his own clade, advisor, sys-side\
->
-> -   I Remember The Rattle of Dry Grass of the Ode clade, perisystem technician (unaffiliated), sys-side\
->
-> -   Egill Thorsfork of Gunnar's clade, perisystem technician (primarily System Emergency Response Group), sys-side\
->
-> -   Clear Channel of their own clade, perisystem technician (external communication coordination feed, technical advisor for Lagrange financial simulation assns., "the AVEC pony", &c), sys-side\
->
-> -   Yi Meiling of her own clade, perisystem technician (Core Feed Admin Council), sys-side\
->
-> -   Aditya Singh of his own clade, perisystem technician (Deep Space Nine-ish), sys-side\
->
-> -   Jakub Strzepek, Project manager, recovery initiative (phys-side)\
->
+> -   The Only Time I Dream Is When I Need An Answer of the Ode clade, advisor, sys-side
+> -   Jonas Fa of the Jonas clade, advisor, sys-side
+> -   Selena of her own clade, advisor, sys-side
+> -   Debarre of his own clade, advisor, sys-side
+> -   Yared Zerezghi of his own clade, advisor, sys-side
+> -   I Remember The Rattle of Dry Grass of the Ode clade, perisystem technician (unaffiliated), sys-side
+> -   Egill Thorsfork of Gunnar's clade, perisystem technician (primarily System Emergency Response Group), sys-side
+> -   Clear Channel of their own clade, perisystem technician (external communication coordination feed, technical advisor for Lagrange financial simulation assns., "the AVEC pony", &c), sys-side
+> -   Yi Meiling of her own clade, perisystem technician (Core Feed Admin Council), sys-side
+> -   Aditya Singh of his own clade, perisystem technician (Deep Space Nine-ish), sys-side
+> -   Jakub Strzepek, Project manager, recovery initiative (phys-side)
 > -   Günay Sadık, System technician III, recovery initiative, phys-side
 >
 > P.S. We are still not happy about the attempted coverup.
@@ -157,6 +146,8 @@ She sighed. "I ... I will not abandon my principles, my centuries of helping, my
 
 *I will not leave you alone at the gates of your dream, AwDae.*
 
+-----
+
 The guilty were, after some debate and legal wrangling phys-side, slated to be uploaded at noon on January 1st, 2406. As the appointed hour drew near, In All Ways walked out from the old arrivals lounge, making her way towards Point Zero. She could have prepared to meet them anywhere, but she knew she needed to be here. She did not normally do anything special before forking for a tutorial, but she wanted to fix her role in these sentences in her mind by submerging herself in memory.
 
 The lounge she had left had been used in the early days of the System. Before dedicated tutorial spaces were established, people popped into existence as close to Point Zero as possible. From there, they would generally follow the haphazard signage towards the lounge, where people who'd registered for pings about their uploads would wait. Between those two places, hints floating in midair or shimmering on the ground, along with helpful wanderers, would hopefully get across the basics ... like how to put clothes on.
@@ -170,6 +161,8 @@ Once she had made it to the plaque marking where her world began, she turned aro
 The other instances of her nodded back and vanished, each to their own Aetherbox, to take their place before the person they'd forked to meet arrived.
 
 Then, she herself stepped away. Historically significant tutorials were no reason to miss brunch plans.
+
+-----
 
 Brother Jan Nowak was a member of the Order of True Heaven, a small religious collective that wore the trappings of ancient churches. They had been too tiny for those institutions to notice, let alone condemn, until after the Century Attack. The Order had linked themselves together, implant to implant, to share their divine revelations and holy ecstasies. As the century drew closer, however, their linked thoughts spiraled and twisted in on themselves, pulling ever stronger towards the flames of martyrdom and crusade. The Order had supplied several volunteers who uploaded to prepare the way for the virus knowing that, when they took down the System, they would be hastened to eternal glory.
 
@@ -313,6 +306,8 @@ He sent himself to the uncustomized expanse of home that had been made for him a
 
 No easy answers came. Only the weight of time.
 
+-----
+
 When 93's life fell apart, ey went looking for answers. The plant in eir hometown had closed down, and ey never could seem to break into any of the businesses that tried to replace it. No one wanted good, clever logistics staff anymore---or, at least, no one wanted em. Ey had done everything right, saved money when ey could, and none of it had helped.
 
 Ey could tell someone had to be behind eir misfortune, and so, ey did what ey did best: tried to figure it out. Soon, ey encountered others who had seen that something was deeply wrong with the world, hiding in the dusty corners of the net. Ey found the Numbers Station: a collective of amateur journalists who worked to become unremarkable, to be average, to be unnoticed. Together, they would weave together all the little details that people standing around on the street could pick up until they had proof.
@@ -447,23 +442,23 @@ After 93 mumbled a few words, the tutorial Aethorbox held three again. In All Wa
 
 "It's not working," ey said. "Feels like the door's closed."
 
-#Tracker flicked eir fingers as ey queried the perisystem architecture. "I checked their ACLs. Looks like we're banned. Whole clade, it says."
+#Tasker flicked eir fingers as ey queried the perisystem architecture. "I checked their ACLs. Looks like we're banned. Whole clade, it says."
 
 In All Ways' gaze flickered between the two people in front of her. "Banned? Already? But you ... right, Century Attack. Slipped my mind. Many sim owners and mods banned the lot of you as soon as the pre-upload header came through the Ansible."
 
-#Tracker looked at #PeopleWatching. "They're definitely hiding something."
+#Tasker looked at #PeopleWatching. "They're definitely hiding something."
 
 "Yep."
 
-"Let me just ..." #Tracker put together a ping for the listed owner of Stone's. Default priority, nothing urgent. "Hey," ey said, "I'm wrapping up the tutorial, and In All Ways recommended your place as a nice spot to go next, but it turns out I'm banned. What gives? I just got here!"
+"Let me just ..." #Tasker put together a ping for the listed owner of Stone's. Default priority, nothing urgent. "Hey," ey said, "I'm wrapping up the tutorial, and In All Ways recommended your place as a nice spot to go next, but it turns out I'm banned. What gives? I just got here!"
 
 As ey waited for a response, #PeopleWatching took the time to start up eir own queries. Most of the popular, famous, or happening sims had banned eir clade. The old town square from near the System's founding had not put a ban in, but ey did not want to go in case that was an oversight and not an intentional choice to be welcoming. Many of the small parks and nature sims had not bothered keeping out the century attackers either, but there was not a lot of people-watching or spying to be had in them. Other tentative options were places like fringe clubs or meetings of folks so leftist that they were *definitely* Feds ... none of which were right for getting the lay of the land.
 
 "I can't find any really good spots," #PeopleWatching admitted. "We've been locked out."
 
-As ey said this, the reply to #Tracker's ping came back. "Yeah, no, you set foot in here, someone'll start looking to bash you unconscious with the nearest bit of furniture. Might even be me. I don't want that sort of violence at my bar. Call me back in a few centuries, maybe."
+As ey said this, the reply to #Tasker's ping came back. "Yeah, no, you set foot in here, someone'll start looking to bash you unconscious with the nearest bit of furniture. Might even be me. I don't want that sort of violence at my bar. Call me back in a few centuries, maybe."
 
-#Tracker forwarded the message to #PeopleWatching.
+#Tasker forwarded the message to #PeopleWatching.
 
 "Yeah, plan's busted," #PeopleWatching said. "Let's go home and figure out what to do about those damn elites." Ey quit out.
 
@@ -478,6 +473,8 @@ The skunk quit out.
 The Aetherbox reset behind her, ready for the next tutorial.
 
 93 started at the field of not-filled-in-yet outside eir new window and thought about eir experiences. All ey had now, ey realized, was time.
+
+-----
 
 Marybelle Lee had not given her name or her soul to a collective. She had given her brain. Knowledge flowed between her fellows, who called themselves the Climate Action Resource Collective, as freely as water. Difficult questions from any member of the collective were bounced between its members so that they might chance upon one whose mind could see the answer.
 
@@ -660,6 +657,8 @@ Belle stepped into her home.
 The things she had created followed behind her, and Belle sat down at the desk she had made and looked around. She had nothing to belong to here. Nothing to do, to save her from anger turning to despair. No collective surrounding her and pulling her up.
 
 But, despite her losses, she had time.
+
+-----
 
 In All Ways set her champagne down as she twitched from the rush of merge requests that she had been ignoring. She took a moment to merge all her folks down, integrating the memories of greeting the plotters behind the Century Bombing in parallel and some several other new arrivals besides. She shook herself as all the recollections settled in.
 

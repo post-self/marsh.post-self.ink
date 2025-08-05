@@ -13,7 +13,7 @@ Nine stories set in the days, weeks, and years following the Century Attack, wri
 ["Home From the Game": <small>Sadie Amara — 2401</small>](/stories/home-from-the-game)
 :   *Caela Argent*
 
-["The Party at the End of the World": <small>Scout at The Party V — 2401</small>](/stories/the-party-at-the-end-of-the-world)
+["The Party at the End of the World": <small>Scout At The Party V — 2401</small>](/stories/the-party-at-the-end-of-the-world)
 :   *Krzysztof “Tomash” Drewniak*
 
 ["A Well-Trained Eye": <small>Lucia Marchetti — 2401</small>](/stories/a-well-trained-eye)
@@ -31,5 +31,5 @@ Nine stories set in the days, weeks, and years following the Century Attack, wri
 ["Millwright": <small>Andréa C Mason#Millwright — 2401</small>](/stories/millwright)
 :   *Andréa C Mason*
 
-["Sentences": <small>In all Ways — 2405–2406</small>](/stories/sentences)
+["Sentences": <small>In All Ways — 2405–2406</small>](/stories/sentences)
 :   *Krzysztof “Tomash” Drewniak*
