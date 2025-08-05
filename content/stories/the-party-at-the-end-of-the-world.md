@@ -2,7 +2,7 @@
 type: story
 title: The Party at the End of the World
 author: Krzysztof “Tomash” Drewniak
-character: Scout at The Party V — 2401
+character: Scout At The Party V — 2401
 ---
 
 The Party stumbled at the touch of apocalypse.

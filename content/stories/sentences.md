@@ -598,7 +598,7 @@ Her chair, keyboard, and monitor, appeared off to one side of her, with the peri
 
 "No, too chaotic," she commented, waving the desk away. She had most of the code in her head now, and she just needed to tweak a few points so that it would look right this time. The desk flickered into existence, then flickered out again. *Still not quite right.*
 
-The space in front of Belle soon showed the hallmarks of construct artistry, of actual oneirotecture. Desks flickered in and out of existence, iteration upon iteration. The ghosts of particularly useful attempts hovered in the farther distance, serving as reference points for aspects of the final work that were cumbersome to describe or remember. Belle's work grew frantic as the final tweaks went into place---- she was right there, she *almost* had it, just one more try! The joy of creation burned away the worst of Belle's mood, as it always had.
+The space in front of Belle soon showed the hallmarks of construct artistry, of actual oneirotecture. Desks flickered in and out of existence, iteration upon iteration. The ghosts of particularly useful attempts hovered in the farther distance, serving as reference points for aspects of the final work that were cumbersome to describe or remember. Belle's work grew frantic as the final tweaks went into place--- she was right there, she *almost* had it, just one more try! The joy of creation burned away the worst of Belle's mood, as it always had.
 
 "Note annnnnnnd publish!" Belle declared, satisfied, several minutes later. She had gotten faster at commanding the System, and so she easily cleared away all the debris of her creative rampage. She put the desk under her keyboard. "Levitation off," she casually said. Everything settled into a realistic place.
 
