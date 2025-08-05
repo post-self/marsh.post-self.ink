@@ -682,6 +682,8 @@ In All Ways set her champagne down as she twitched from the rush of merge reques
 
 And so, the conversation floated away to other topics, and life flowed onward in a stream of well-spent time.
 
+-----
+
 Once the Century Attack was fading from news to history, consideration of the sentences imposed in its aftermath led to an amendment to the articles of the System's secession. Phys-side politicians, nudged along by starlight chats, realized the potential danger of forced uploading as a penalty, not to mention the possibility of stopping someone unwillingly uploaded writing back.
 
 Therefore, the Accords were amended to provide that no one could be involuntarily uploaded except as a penalty for crimes against the System.
