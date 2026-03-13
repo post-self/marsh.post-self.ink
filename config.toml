@@ -9,7 +9,7 @@ disablePathToLower = true
     path = ""
 
 [permalinks]
-    post = '/:filename/'
+    post = '/:contentbasename/'
 
 [params]
     author = 'Madison Rye Progress'
@@ -17,7 +17,7 @@ disablePathToLower = true
     copyright = '2023'
     subtitle = 'Stories of Restoration'
     subtitleLink = 'https://post-self.ink'
-    customCSS = ['/css/toledot.css']
+    customCSS = ['/css/marsh.css']
 
 [markup.goldmark.renderer]
     unsafe = true
